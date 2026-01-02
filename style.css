@@ -71,3 +71,18 @@ h1 {
         padding: 15px;
     }
 }
+
+
+
+
+/* Additional By Eshwar */
+img{
+    height: 100px;
+}
+form{
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    padding: 10px 10px;
+}
